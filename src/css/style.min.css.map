@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,MAAM,AAAC,CACH,UAAU,CAAE,4BAA4B,CAAC,MAAM,CAAC,YAAc,CAAC,SAAS,CAAG",
+    "sources": [
+        "../sass/style.sass",
+        "../sass/_promo.sass"
+    ],
+    "names": [],
+    "file": "style.min.css"
+}
